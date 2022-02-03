@@ -1,0 +1,12 @@
+.List {
+    /* display: block; */
+    /* list-style: none; */
+    padding: 5px 10px;
+    margin: 0;
+}
+.Link {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
